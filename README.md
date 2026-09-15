@@ -1,10 +1,8 @@
 # 👋 Olá, eu sou o Myron!
 
-🎓 Estudante de Engenharia de Software
-☕ Desenvolvedor Java em formação
-🌱 Estudando Spring Boot  
-🗄️ Banco de Dados e SQL  
-🖥️ Suporte de TI e Redes
+🎓 Estudante de Tecnologia da Informação  
+☕ Java | 🌱 Spring Boot | 🗄️ SQL  
+🖥️ Suporte de TI | 🌐 Redes de Computadores 
 
 ---
 
