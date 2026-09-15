@@ -19,3 +19,16 @@ conhecimentos em Banco de Dados, SQL, Redes de Computadores e Suporte de TI.
 
 Meu objetivo é transformar o conhecimento adquirido durante os estudos
 em projetos práticos e construir uma carreira sólida na área de tecnologia.
+
+---
+
+## ☕ Desenvolvimento Backend
+
+Atualmente estou estudando desenvolvimento backend com:
+
+- ☕ Java
+- 🌱 Spring
+- 🚀 Spring Boot
+- 🔌 APIs REST
+- 🗄️ SQL
+- 🐬 MySQL
