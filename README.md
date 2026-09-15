@@ -32,3 +32,19 @@ Atualmente estou estudando desenvolvimento backend com:
 - 🔌 APIs REST
 - 🗄️ SQL
 - 🐬 MySQL
+
+---
+
+## 🖥️ Suporte de TI e Redes
+
+Tenho interesse em desenvolver minha carreira na área de Suporte de TI.
+
+Atualmente estou estudando:
+
+- 🖥️ Suporte técnico
+- 💻 Sistemas operacionais
+- 🧩 Hardware e software
+- 🌐 Redes de computadores
+- 📡 TCP/IP
+- 🗄️ Banco de dados
+- 📚 Documentação técnica
