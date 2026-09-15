@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Myron!
 
-🎓 Estudante de Tecnologia da Informação  
+🎓 Estudante de Engenharia de Software
 ☕ Java | 🌱 Spring Boot | 🗄️ SQL  
 🖥️ Suporte de TI | 🌐 Redes de Computadores 
 
