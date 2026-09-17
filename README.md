@@ -2,8 +2,7 @@
 
 🎓 Software Engineering Student
 ☕ Java | 🌱 Spring Boot | 🗄️ SQL
-🖥️ IT Support | 🌐 Networking
-🚀 Always learning. Always evolving.
+🖥️ IT Support
 
 ---
 
