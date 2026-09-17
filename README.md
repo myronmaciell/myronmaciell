@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Myron!
 
-🎓 Software Engineering Student
-☕ Java | 🌱 Spring Boot | 🗄️ SQL
+🎓 Software Engineering Student |
+☕ Java | 🌱 Spring Boot | 🗄️ SQL |
 🖥️ IT Support
 
 ---
